@@ -27,4 +27,3 @@ For the purpose of demonstrating a complete Agile Workflow, we created a Jira in
 ## _Happy Coding_
 
 Have a nice time implementing the project!
-
